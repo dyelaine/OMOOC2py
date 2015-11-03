@@ -8,6 +8,7 @@
 - [代码 (_src)](_src/README.md)
   + [My Dear Diary](_src/om2py1w/README.md)
   + [Diary GUI](_src/om2py2w/README.md)
+  + [交互式Diary](_src/om2py3w/README.md)
 - [素材 (draft)](draft/README.md)
   + [教程该怎么写](draft/how2tutorial.md)
 - [有关](ABOUT.md)
