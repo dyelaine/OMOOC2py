@@ -1,7 +1,8 @@
 # Summary
 - [教学反转](0MOOC/README.md)
     + [学习纪要](0MOOC/memo.md)
-        * [首次线下讨论纪要](0MOOC/discussion1.md)
+        * [首次线下讨论纪要](0MOOC/C2T2_1.md)
+        * [20151107线下讨论纪要](0MOOC/C2T2_2.md)
 - [基础旋进](1sTry/README.md)
 - [迭代作品](2nDev/README.md)
 - [人生首秀](3rDemo/README.md)
