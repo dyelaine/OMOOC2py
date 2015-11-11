@@ -46,7 +46,7 @@ def hello(name='World'):
 %end
 </table>
 ```
-使用for/if/while等时，要记得使用%end来结束它们。如果要访问template里面的一个non-python code，需要使用{{}}，这时也就是告诉template把该变量的真实值插入在这个位置。
+使用for/if/while等时，要记得使用%end来结束它们。如果要访问template里面的一个non-python code，需要使用双花括号，这时也就是告诉template把该变量的真实值插入在这个位置。
 
 **Using POST and GET Values**
 
