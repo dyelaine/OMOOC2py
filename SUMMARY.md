@@ -1,6 +1,7 @@
 # Summary
 - [教学反转](0MOOC/README.md)
-    + [学习纪要](0MOOC/memo.md)
+    + [学习纪要](0MOOC/memo.md)、
+        * [公开课纪要](0MOOC/Python_class.md)
         * [首次线下讨论纪要](0MOOC/C2T2_1.md)
         * [20151107线下讨论纪要](0MOOC/C2T2_2.md)
 - [基础旋进](1sTry/README.md)
@@ -10,6 +11,7 @@
   + [My Dear Diary](_src/om2py1w/README.md)
   + [Diary GUI](_src/om2py2w/README.md)
   + [交互式Diary](_src/om2py3w/README.md)
+  + [网页版Diary](_src/om2py4w/README.md)  
 - [素材 (draft)](draft/README.md)
   + [教程该怎么写](draft/how2tutorial.md)
 - [有关](ABOUT.md)
