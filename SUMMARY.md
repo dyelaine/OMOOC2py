@@ -3,7 +3,8 @@
     + [学习纪要](0MOOC/memo.md)、
         * [公开课纪要](0MOOC/Python_class.md)
         * [首次线下讨论纪要](0MOOC/C2T2_1.md)
-        * [20151107线下讨论纪要](0MOOC/C2T2_2.md)
+        * [20151107C2T2纪要](0MOOC/C2T2_2.md)
+        * [20151121C2T2纪要](0MOOC/C2T2_3.md)
 - [基础旋进](1sTry/README.md)
 - [迭代作品](2nDev/README.md)
 - [人生首秀](3rDemo/README.md)
